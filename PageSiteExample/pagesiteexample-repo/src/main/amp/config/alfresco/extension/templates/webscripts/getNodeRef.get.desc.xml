@@ -1,0 +1,10 @@
+<webscript>
+  <shortname>Return nodeRef of the folder</shortname>
+  <description>
+    Returns nodeRef which points to the folder depending of the passed parameters.
+  </description>
+  <format default="json"/>
+  <lifecycle>draft_public_api</lifecycle>
+  <url>/api/mywebscript/getnoderef?param={value}</url>
+  <authentication>user</authentication>
+</webscript>

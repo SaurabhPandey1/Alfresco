@@ -1,0 +1,13 @@
+<alfresco-config>
+
+  <!-- Add a custom page type -->
+  <config evaluator="string-compare" condition="SitePages">
+    <pages>
+      <page id="my-document-library">my-document-library</page>
+    </pages>
+  </config>
+
+  <!-- Document Library config section -->
+  <config evaluator="string-compare" condition="DocumentLibrary">
+  </config>
+</alfresco-config>

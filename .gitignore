@@ -1,0 +1,11 @@
+_site/
+.DS_Store
+.*.swp
+.idea
+.sass-cache/
+*~
+bourbon/
+Gemfile.lock
+target/
+*.iml
+alf_data_dev/

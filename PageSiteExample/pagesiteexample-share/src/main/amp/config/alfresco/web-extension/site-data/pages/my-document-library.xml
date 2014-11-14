@@ -1,0 +1,8 @@
+<page>
+  <title>My Document Library</title>
+  <title-id>page.myDocLib.title</title-id>
+  <description>My Document Library</description>
+  <description-id>page.myDocLib.description</description-id>
+  <template-instance>my-document-library</template-instance>
+  <authentication>user</authentication>
+</page>
