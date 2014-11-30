@@ -9,3 +9,4 @@ Gemfile.lock
 target/
 *.iml
 alf_data_dev/
+tomcat/
