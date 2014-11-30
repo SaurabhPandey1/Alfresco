@@ -1,0 +1,7 @@
+<webscript>
+  <shortname>Sites creation</shortname>
+  <description>This webscript creates sites</description>
+  <url>/org/init/create-sites</url>
+  <authentication>admin</authentication>
+  <lifecycle>draft_public_api</lifecycle>
+</webscript>
